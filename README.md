@@ -8,7 +8,7 @@
 
 - 🏭 **Reluctant entrepreneur**, invoicing by day, building cool things by night.
 - 🐹 **Golang Goblin** – compiling code faster than your enterprise can schedule a meeting, yet still slower than the average .NET developer's ejaculation time.
-- 🎮 **Indie game dev**, because blowing my money on custom AI agents (Meshy, Claude Code, etc.) feels way better than loot boxes.
+- 🎮 **Game Dev AI Tool Addict**, because blowing my money on custom AI agents (Meshy,Hunyuan, Claude Code, etc.) feels way better than payin 80$ to bOrDeRLaNdS.
 - 🖥️ **Cross‑platform rebel** – refusing to ship binaries for Windows until Microsoft admits Clippy was the original spyware. *(Except when writing Unity games in C#, because apparently Bill Gates decided JavaScript wasn't good enough—maybe Clippy whispered something in his ear.)*
 - 🎧 **Bedroom DJ / professional dance‑floor disruptor** → [SoundCloud: asycned](https://soundcloud.com/asycned).
 - 🧘 **Wellness fanatic**, able to achieve inner peace but unable to reach my toes.
