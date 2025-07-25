@@ -58,14 +58,5 @@ import (
 
 ---
 
-### "Hiring?"
-
-Thanks, but I’m good.\
-Offer me a traditional job, and your entire codebase might just refactor itself to `/dev/null`.
-
-> *“If code is poetry, consider this repo your daily dose of tech satire.”*
-
----
-
 *Powered by caffeine, curiosity, and morally ambiguous herbs.*
 
